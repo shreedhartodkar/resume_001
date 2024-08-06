@@ -1,21 +1,24 @@
-# Plant Breeder & Data analyst
-### _Current Position - Genetics Intern - Syngenta_ 
+# Technical Project Leader & AI Engineer | PhD in Signal processing, AI and geophysics
+### _Current Position - Technical Project Leader | Data and AI Engineer at ALTRAN PROTOTYPE AUTOMOBILES, Meudon, France_ 
 
 #### Summary: 
-Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
+Currently, in position as R&D Technical Project Leader and AI Engineer with a strong background in AI for Autonomous Driving projects at Capgemini Engineering. Academic journey includes a PhD in Signal Processing, Geophysics, and Machine Learning, reflecting my expertise in data-driven technologies. With over 6 years of expertise in MATLAB and Python, along with 3 years in C++. Passionate in using AI and data engineering to drive innovation. Specialized in developing AI solutions and have a keen interest in Autonomous Vehicles and/or Health and Medicine.
 #### Publication Statistics:
 Cumulative Impact Factor: **34.171**
 
-Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
+Total Citations: **180+** <a href="https://scholar.google.com/citations?user=1wvfD8kAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Shreedhar-Savant-Todkar" target="_blank">ResearchGate</a>
 
 #### Technical Skills:
-
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
-- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
+- Expertise domains: _Deep Learning, Signal Processing, Statistical Analysis and Data science, Geophysics, Supply Chain Management, Project Management_
+- Development platforms: _Python, Matlab, Perl, C++_
+- Development/AI platforms: _Python (Keras, Tensorflow, Numpy, Scikit, Pandas) and Matlab (Computer vision & image processing, ML & classifier learning, OpenCV)_
+- Project Management: _Resource Planning and Scheduling, Google Analytics, MS SharePoint, Jira and Trello_
+- Version Control/Code Collaboration: _Gitlab, Github, Bitbucket_
+- OS platforms: _Windows, Linux and MacOS_
+- Safety standards: _ISO 26262, ISO/PAS 21448 SOTIF_
   
 ## 🎓 Education
-- **Ph.D.**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
+- **Ph.D.**, AI, geophysics and signal processing f | <a href="https://tnau.ac.in/" target="_blank">Université de Nantes</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
 - **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
 - **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
 

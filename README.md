@@ -164,6 +164,6 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## 📞 Contact
 
-| **Name**   | Allan. V | 
-| **E-mail**   | <a href="mailto:albertoogy@gmail.com">albertoogy@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
+| **Name**   | Shreedhar Savant TODKAR | 
+| **E-mail**   | <a href="mailto:shreedhar.todkar@gmail.com">shreedhar.todkar@gmail.com</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/shreedhartodkar1990/" target="_blank">Visit Page</a> | 

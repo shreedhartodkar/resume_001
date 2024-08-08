@@ -9,13 +9,13 @@ Cumulative Impact Factor: **34.171**
 Total Citations: **180+** <a href="https://scholar.google.com/citations?user=1wvfD8kAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Shreedhar-Savant-Todkar" target="_blank">ResearchGate</a>
 
 #### Technical Skills:
-- Expertise domains: _Deep Learning, Signal Processing, Statistical Analysis and Data science, Geophysics, Supply Chain Management, Project Management_
-- Development platforms: _Python, Matlab, Perl, C++_
-- Development/AI platforms: _Python (Keras, Tensorflow, Numpy, Scikit, Pandas) and Matlab (Computer vision & image processing, ML & classifier learning, OpenCV)_
-- Project Management: _Resource Planning and Scheduling, Google Analytics, MS SharePoint, Jira and Trello_
-- Version Control/Code Collaboration: _Gitlab, Github, Bitbucket_
-- OS platforms: _Windows, Linux and MacOS_
-- Safety standards: _ISO 26262, ISO/PAS 21448 SOTIF_
+- **Expertise domains**: _Deep Learning, Signal Processing, Statistical Analysis and Data science, Geophysics, Supply Chain Management, Project Management_
+- **Development platforms**: _Python, Matlab, Perl, C++_
+- **Development/AI platforms**: _Python (Keras, Tensorflow, Numpy, Scikit, Pandas) and Matlab (Computer vision & image processing, ML & classifier learning, OpenCV)_
+- **Project Management**: _Resource Planning and Scheduling, Google Analytics, MS SharePoint, Jira and Trello_
+- **Version Control/Code Collaboration**: _Gitlab, Github, Bitbucket_
+- **OS platforms**: _Windows, Linux and MacOS_
+- **Safety standards**: _ISO 26262, ISO/PAS 21448 SOTIF_
   
 ## 🎓 Education
 - **Ph.D.**, AI, geophysics and signal processing f | <a href="https://tnau.ac.in/" target="_blank">Université de Nantes</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
@@ -23,16 +23,24 @@ Total Citations: **180+** <a href="https://scholar.google.com/citations?user=1wv
 - **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
 
 ## 🔬 Research Experience
-**Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
-- Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
-- Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
-- Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
+**Doctoral candidate @<a href="https://tnau.ac.in/" target="_blank">CEREMA - IFSTTAR, Nantes (FRANCE)</a> (_2016 - 2019_)**
+- **Thesis title**: _Monitoring subsurface conditions of pavement structures using Ultra-wideband radar technology_
+- **Problem statement**: Early detection of small defects (debondings) in pavement structures is crucial for preventing further damage and ensuring long-term durability.
+- **Challenges faced**: Traditional Ground Penetrating Radar (GPR) lacks the resolution to detect small defects. The lack of adaptable signal processing and feature engineering methods to automate defect detection using non-destructive techniques motivated this research work.
+- **Solutions proposed**: Use of Ultra-Wideband Radar (UWB) and artificial intelligence methods to detect and characterize millimeter-scale defects in civil engineering structures.
+- **Methodologies**: Both theoretical and experimental approaches, including testing on real pavement slabs, were employed.
+Non-destructive evaluation and monitoring of infrastructures for early detection of structural damage
+Development and optimization of artificial intelligence methods (based on supervised machine learning)
+Generation of mathematical and numerical synthetic 2D and 3D models for validation of AI detection models
+- **Results obtained**: Demonstrated the feasibility of early defect detection using the proposed approach using machine learning methods along with suitable feature engineering and signal processing techniques.
 
-**Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
-- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
-- Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
-- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
-
+**Postdoctoral Researcher @ <a href="https://www.icrisat.org/" target="_blank">UNIVERSITÉ GUSTAVE EIFFEL, Nantes (FRANCE)</a> (_2019 - 2021_)**
+- **Research Topic**: _Development of advanced GPR data processing techniques for thin debonding detection in pavement structures._
+- Joint collaborative project with CNAM and Cerema funded by the _Agence Nationale de la Recherche(ANR)_, France
+- Responsible for two work packages related to : Development of advanced data processing and AI techniques for subsurface damage detection and monitoring
+- Development of an end-to-end HMI (currently deployed on the internal server of Université Gustave Eiffel)
+- **Achievements**: Agence pour la Protection des Programmes
+ 
 ## 💼 Work experience 
 **Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
 - 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.

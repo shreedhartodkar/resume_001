@@ -6,7 +6,7 @@ Currently, in position as R&D Technical Project Leader and AI Engineer with a st
 #### Publication Statistics:
 Cumulative Impact Factor: **34.171**
 
-Total Citations: **180+** <a href="https://scholar.google.com/citations?user=1wvfD8kAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Shreedhar-Savant-Todkar" target="_blank">ResearchGate</a>
+Total Citations: **180+** (as of April 2024) <a href="https://scholar.google.com/citations?user=1wvfD8kAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Shreedhar-Savant-Todkar" target="_blank">ResearchGate</a>
 
 #### Technical Skills:
 - **Expertise domains**: _Deep Learning, Signal Processing, Statistical Analysis and Data science, Geophysics, Supply Chain Management, Project Management_
@@ -17,7 +17,7 @@ Total Citations: **180+** <a href="https://scholar.google.com/citations?user=1wv
 - **OS platforms**: _Windows, Linux and MacOS_
 - **Safety standards**: _ISO 26262, ISO/PAS 21448 SOTIF_
   
-## 🎓 Education
+## 🎓 Educational Background
 - **Ph.D.**, AI, geophysics and signal processing f | <a href="https://tnau.ac.in/" target="_blank">Université de Nantes</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
 - **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
 - **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
@@ -42,10 +42,27 @@ Generation of mathematical and numerical synthetic 2D and 3D models for validati
 - **Achievements**: Agence pour la Protection des Programmes
  
 ## 💼 Work experience 
-**Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
-- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
-- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
-- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>. 
+**Technical Project Leader | Data and AI Engineer @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Capgemini Engineering, Meudon (FRANCE)</a> (_August 2022 - present_)**
+- Managerial Responsibilities :
+∠ Technical-economic benchmark, Return On Investment (ROI)/cost estimation, Business plan writing,
+Team staffing, Resource identification
+∠ Project milestones planning and identification of its future technical directions
+
+- Technical Responsibilities :
+∠ Development of Deep Learning and YOLO models for autonomous driving applications : perception,
+distance estimation, object detection and tracking.
+∠ Development of explainable AI models to ”explain” and improve autonomous driving experience
+∠ Development of object detection & tracking methods (e.g, cars, pedestrians, cyclists etc.)
+∠ RADAR and monocular camera data processing for environmental perception.
+∠ Development of diagnostic methods to detect sensor faults and failures in the Ego vehicle
+∠ Development of a reference model for perfect autonomous driving behavior using NLP on the French Traffic Rulebook & SOTIF safety regulations
+∠ Characterization of the smart testing acceptance criteria through a set of rule-based models
+
+**Software Engineer & Analyst @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Accenture Services Private Limited, Bengaluru (INDIA)</a> (_February 2013 - August 2024_)**
+- Developer - Project Aristos IVR for AT&T
+∠ Development of an Interactive Voice Response (IVR) system
+∠ Data collected and used : Voice calls from 3 South-eastern US states
+∠ Design and development of Gandalf : a server monitoring system
 
 ## 💻 Programming and data analysis skills
 - Proficient in full stack development of **R packages** using modular coding practices.
@@ -58,8 +75,6 @@ Generation of mathematical and numerical synthetic 2D and 3D models for validati
 **Additional Skills:**
   
 - Git/GitHub for version control and collaborative coding.
-- High performance computing on clusters for scalable data analysis.
-- Bioconductor for analyzing genomic/transcriptomic experiments.
 - Workflow automation to enhance reproducibility and to faster workflow. 
 
 ## 🌱 R Packages developed
@@ -131,16 +146,32 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## 📜 Publications
 
-1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: <a href="https://doi.org/10.3389/fpls.2020.587426" target="_blank">https://doi.org/10.3389/fpls.2020.587426</a>)
-2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">https://allanbiotools.shinyapps.io/pbperfect/</a>.
-3. Backiyalakshmi, C., Mani Vetriventhan, Santosh Deshpande, C. Babu, Allan Victor, D. Naresh, Rajeev Gupta, and Vania CR Azevedo. **"Genome-wide assessment of population structure and genetic diversity of the global finger millet germplasm panel conserved at the ICRISAT Genebank."** _Frontiers in Plant Science_ 12 (2021): 692463. (DOI: <a href="https://doi.org/10.3389/fpls.2021.692463" target="_blank">https://doi.org/10.3389/fpls.2021.692463</a>)
-4. Vetriventhan, Mani, Hari D. Upadhyaya, Vania CR Azevedo, Allan Victor, and Seetha Anitha. **"Variability and trait‐specific accessions for grain yield and nutritional traits in germplasm of little millet (_Panicum sumatrense_ Roth. Ex. Roem. & Schult.)."** _Crop Science_ 61, no. 4 (2021): 2658-2679. (DOI: <a href="https://doi.org/10.1002/csc2.20527" target="_blank">https://doi.org/10.1002/csc2.20527</a>)
-5. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Allan Victor, Munmun Dash, Keisar Lourdusamy, Ramalingam Kumaraperumal, Pushpanathan Raja, and U. Surendran. **"Exploration of microbial signature and carbon footprints of the Nilgiri Hill Region in the Western Ghats global biodiversity hotspot of India."** _Applied Soil Ecology_ (2023): 105176 (DOI: <a href="https://doi.org/10.1016/j.apsoil.2023.105176" target="_blank">https://doi.org/10.1016/j.apsoil.2023.105176</a>).
-6. Jagadesh, M., Cherukumalli Srinivasarao, Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Aradhna Kumari, Santhosh Kumar Singh, Allan Victor **"Quantifying the Unvoiced Carbon Pools of the Nilgiri Hill Region in the Western Ghats Global Biodiversity Hotspot—First Report."** _Sustainability_ 15, no. 6 (2023): 5520. (DOI: <a href="https://doi.org/10.3390/su15065520" target="_blank">https://doi.org/10.3390/su15065520</a>)
-7. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Cherukumalli Srinivasarao, Thangavel Kalaiselvi, Keisar Lourdusamy, Ramalingam Kumaraperumal, and Victor Allan. **"Soil Carbon Dynamics Under Different Ecosystems of Ooty Region in the Western Ghats Biodiversity Hotspot of India."** _Journal of Soil Science and Plant Nutrition_ 23, no. 1 (2023): 1374-1385. (DOI: <a href="https://doi.org/10.1007/s42729-023-01129-2" target="_blank">https://doi.org/10.1007/s42729-023-01129-2</a>)
-8. Allan Victor., N. Meenakshi Ganesan, R. Saraswathi, R. Gnanam, and C. N. Chandrasekhar. **"Exploring the phenotypic diversity of rice: A multivariate analysis of local landraces and elite cultivars of Tamil Nadu and Exotic Lines."** _Electronic Journal of Plant Breeding_ 14, no. 3 (2023): 857-866. (DOI: <a href="https://ejplantbreeding.org/index.php/EJPB/article/view/4804" target="_blank">10.37992/2023.1403.099</a>)
-9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: <a href="https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575" target="_blank">https://doi.org/10.37992/2020.1103.125</a>)
-    
+- A PRELIMINARY NUMERICAL STUDY TO COMPARE THE PHYSICAL METHOD AND MACHINE LEARNING METHODS APPLIED TO GPR DATA FOR UNDERGROUND UTILITY NETWORK CHARACTERIZATION (FEBRUARY 2022) Rakeeb Mohamed Jaufer, Amine Ihamouten,Yann Goyat,Shreedhar Savant Todkar,David Guilbert,Ali Assaf and Xavier Dérobert, In : MDPI Special Issue Remote Sens. 2022, 14(4), 1047
+- ON1E-CLASS SVM BASED OUTLIER DETECTION STRATEGY TO DETECT THIN INTERLAYER DEBONDINGS WITHIN PAVEMENT STRUCTURES USING GROUND PENETRATING RADAR DATA (JUNE 2021), Shreedhar Savant Todkar, Vincent Baltazart, Amine Ihamouten, Xavier Dérobert, Cédric Le Bastard, In : Journal of Applied Geophysics
+- GPR MONITORING OF ARTIFICIAL DEBONDED PAVEMENT STRUCTURES THROUGHOUT ITS LIFE CYCLE DURING ACCELERATED PAVEMENT TESTING (APRIL 2021), Xavier Dérobert, Vincent Baltazart, Jean-Michel Simonin, Shreedhar Savant Todkar, Christophe Norgeot, Ho-Yan Hui, Special
+Issue : Remote Sensing 13(8):1474
+- NUMERICAL MODELING USING GPRMAX TO IDENTIFY A SUBSURFACE TACK COAT FOR SVM CLASSIFICATION (JANUARY 2021), Grégory Andreoli,Amine Ihamouten, Shreedhar Savant Todkar, Cyrille Fauchard, Xavier Dérobert, In : Conference : NSG2021 2nd Conference on Geophysics for Infrastructure Planning, Monitoring and BIM
+- USE OF DEEP LEARNING ON GPR DATA FOR PARAMETER INVERSION OF BURIED CYLINDRICAL PIPES (JANUARY 2021), Rakeeb Jaufer, Amine Ihamouten, Shreedhar Savant Todkar, Frédéric Bosc, Yann Goyat, Xavier Dérobert, In : Conference : NSG2021 2nd Conference on Geophysics for Infrastructure Planning, Monitoring and BIM
+- RADAR DATABASE OVER LARGE DEBONDED AREAS INTO PAVEMENT STRUCTURES (SEPTEMBER 2020), Dérobert, Xavier; Baltazart, Vincent; Simonin, Jean-Michel; Norgeot, Christophe; Durand, Olivier; Todkar, Shreedhar
+- SVM SENSITIVITY ANALYSIS ON THE INFLUENCE OF THE TOP PAVEMENT LAYER ON THIN DEBONDING DETECTION USING NUMERICAL GPR DATA (JUNE 2020) Shreedhar Savant Todkar, Rakeeb Jaufer, Vincent Baltazart, Cyrille Fauchard, Amine Ihamouten, In : 18th International Conference on Ground Penetrating Radar (GPR 2020), Colorado US.
+- RAY-BASED METHOD VS. SVM FOR THE INVERSION OF EMBEDDED CYLINDRICAL PIPE’S PARAMETERS FROM GPR DATA : NUMERICAL COMPARATIVE STUDY (JUNE 2020) Rakeeb Jaufer, Shreedhar Savant Todkar, Amine Ihamouten, David Guilbert, Antoine Caucheteux, Vincent Baltazart, Yann Goyat,
+Xavier Derobert, In : 18th International Conference on Ground Penetrating Radar (GPR 2020), Colorado US.
+- PERFORMANCE ANALYSIS OF TWO-CLASS SVM TO DETECT THIN INTERLAYER DEBONDINGS WITHIN PAVEMENT STRUCTURES (MAY 2020) Shreedhar Savant Todkar, Vincent Baltazart, Amine Ihamouten, Xavier Dérobert, Jean-Michel Simonin, In : EGU General Assembly 2020, Vienna Austria (virtual conference)
+- RADAR DATABASE COLLECTED OVER ARTIFICIAL DEBONDING PAVEMENT STRUCTURES DURING APT AT THE IFSTTAR’S FATIGUE CARROUSEL (JANUARY 2020) X. Dérobert, V. Baltazart, J.-M. Simonin, C. Norgeot, S. Doué, O. Durand, S. S. Todkar, In book : Accelerated Pavement Testing to
+Transport Infrastructure Innovation
+- THIN-BED DATA MODEL FOR THE PROCESSING OF GPR DATA OVER DEBONDED PAVEMENT STRUCTURES (JANUARY 2020) V. Baltazart, S. S. Todkar, X. Dérobert, J.-M. Simonin, In book : Accelerated Pavement Testing to Transport Infrastructure Innovation
+- ROADWAY INTERFACE ANALYSIS WITH A SUPPORT VECTOR REGRESSION BASED LINEAR PREDICTION METHOD USING STEPPED-FREQUENCY RADAR (JULY 2019) Cédric Le Bastard, Jingjing Pan, Yide Wang, Shreedhar Savant Todkar, Amine Ihamouten, Xavier Dérobert, David Guilbert, Meng
+Sun, In : IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium
+- PERFORMANCE ASSESSMENT OF SVM-BASED CLASSIFICATION TECHNIQUES FOR THE DETECTION OF ARTIFICIAL DEBONDINGS WITHIN PAVEMENT STRUCTURES FROM STEPPED-FREQUENCY A-SCAN RADAR DATA (JUNE 2019) Shreedhar Savant Todkar, Cédric Le Bastard, Vincent Baltazart, Amine Ihamouten, Xavier Dérobert, In : Elsevier NDT & E International
+- A LINEAR PREDICTION AND SUPPORT VECTOR REGRESSION BASED DEBONDING DETECTION METHOD USING STEP-FREQUENCY GROUND PENETRATING RADAR (OCTOBER 2018) Cédric Le Bastard, Jingjing Pan, Yide Wang, Meng Sun, Shreedhar Savant Todkar, Vincent Baltazart, Nicolas Pinel, Amine Iha-
+mouten, Xavier Derobert, Christophe Bourlier, In : IEEE Geoscience and Remote sensing Letters.
+- COMPARATIVE STUDY OF CLASSIFICATION ALGORITHMS TO DETECT INTERLAYER DEBONDINGS WITHIN PAVEMENT STRUCTURES FROM STEP-FREQUENCY RADAR DATA (JULY 2018) Shreedhar Savant Todkar, Cédric Le Bastard, Vincent Baltazart, Xavier Dérobert, Amine Ihamouten, In : IEEE Proceedings
+IGARSS-2018, Valencia, Spain.
+- MONITORING OF WATER IMBIBITION OF A PARTICULAR POROUS PAVEMENT STRUCTURE BY IMPULSE AND STEP-FREQUENCY RADAR (JULY 2018) X. Dérobert, Amine Ihamouten, Frédéric Bosc, David Guilbert, J.N. Gaudin, Shreedhar Todkar, Frédéric Bernardin, J.L. Bicard, In :
+18th International conference on Ground Penetrating Radar.
+- DETECTION OF DEBONDINGS WITH GROUND PENETRATING RADAR USING A MACHINE LEARNING METHOD (JULY 2017) Shreedhar Savant Todkar, Cédric Le Bastard, Vincent Baltazart, Amine Ihamouten, Xavier Dérobert, Cyrille Fauchard, David Guilbert, Frédéric Bosc, In : IEEE Proceedings IWAGPR-2017, Edinburgh, Scotland.
+- DÉVELOPPEMENT DE SOLUTION RADIO-SUR-FIBRE BAS COÛT POUR LE DÉPLOIEMENT DE RÉSEAUX LTE ET WIFI (JUNE 2016) Carlos Viana, Jean-Luc Polleux, Dominique Le Brouster, Emmanuel Le Diraison, Shreedhar Todkar, Catherine Algani, Salim Faci,
+Anne-Laure Billabert, François Magne, In : Journée du club OCA, Nice, France  
 
 ## 📚 References
 

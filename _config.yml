@@ -4,7 +4,7 @@ logo: profile.jpg # Use a relative path to logo image
 
 description: R&D Technical Project Leader | PhD in AI & signal processing # Fix hyphenation 
 
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal    
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin

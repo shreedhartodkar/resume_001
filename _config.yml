@@ -4,7 +4,7 @@ logo: photo_cap.jpg # Use a relative path to logo image
 
 description: R&D Technical Project Leader | PhD in AI & signal processing # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+show_downloads: false # Fix spelling
 
 theme: jekyll-theme-minimal 
 
